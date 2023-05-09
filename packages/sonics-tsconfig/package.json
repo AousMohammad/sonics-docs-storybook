@@ -1,0 +1,12 @@
+{
+  "name": "@sonics-team/tsconfig",
+  "version": "1.0.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sonics-team/sonics.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
